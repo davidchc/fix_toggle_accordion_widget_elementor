@@ -2,7 +2,7 @@
 /*
 * Plugin Name: Fix Toggle Accordion Widget Eelementor
 * Plugin URI: https://github.com/davidchc/fix_toggle_accordion_widget_elementor
-* Version: 0.1.1
+* Version: 1.0.0
 * Author: David CHC
 * Author URI: https://www.davidchc.com.br
 * Description: Plugin to add href to Elementor's Toggle Accordion Widget to fix pagespeed notification of Links are not trackable
